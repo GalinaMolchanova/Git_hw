@@ -1,0 +1,5 @@
+favorite movie: What_dreams_may_come,
+favorite series: Friends,
+favorite food: meat,
+favorite_season: spring,
+country: Germany
